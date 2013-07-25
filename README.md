@@ -7,17 +7,20 @@ Our books are currently available in the following print and online editions:
 
 ## English Editions
 
-   * [Digital Image Processing – An Algorithmic Introduction using Java](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag, New York (2008). ISBN 978-1-84628-968-2. Single-volume hardcover edition with 566 pages and 394 illustrations, full color print. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
-   * [Principles of Digital Image Processing (Vol. 1-3)](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/) Springer Undergraduate Topics in Computer Science, New York (2009-2013). 3-volume softbound edition, full color print. Vol. 1: [Fundamental Techniques ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-191-6) Vol. 2: [Core Algorithms ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-195-4) Vol. 3: [Advanced Methods ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84882-918-3) This is currently the most recent English edition. Volumes 1-2 cover essentially the same contents as the hardcover edition. Volume 3 (added in 2013) covers all-new content. [Read more..](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)
+* [Digital Image Processing – An Algorithmic Introduction using Java](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag, New York (2008). ISBN 978-1-84628-968-2. Single-volume hardcover edition with 566 pages and 394 illustrations, full color print. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
+* [Principles of Digital Image Processing (Vol. 1-3)](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/) Springer Undergraduate Topics in Computer Science, New York (2009-2013). 3-volume softbound edition, full color print.  Volumes 1-2 cover essentially the same contents as the hardcover edition. Volume 3 (added in 2013) covers all-new content. [Read more..](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)
+	* Vol. 1: [Fundamental Techniques ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-191-6) 
+	* Vol. 2: [Core Algorithms ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-195-4) 
+	* Vol. 3: [Advanced Methods ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84882-918-3) This is currently the most recent English edition. 
 
-![cover-en1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-en-140x195.png)![UTICS-cover-1-140](http://imagingbook.files.wordpress.com/2013/06/utics-fund-front-140.png)![UTICS-cover-3-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png)![UTICS-cover-2-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png)
+![cover-en1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-en-140x195.png) ![UTICS-cover-1-140](http://imagingbook.files.wordpress.com/2013/06/utics-fund-front-140.png) ![UTICS-cover-3-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png) ![UTICS-cover-2-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png)
 
 ## German Editions
 
    * [ Digitale Bildverarbeitung – Eine Einführung mit Java und ImageJ](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag Heidelberg, 2nd edition (2006). Single-volume hardcover edition. ISBN 978-3-540-30941-3. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
    * Digitale Bildverarbeitung – Eine algorithmische Einführung mit Java (to appear 2014) Springer-Verlag Heidelberg, 3rd edition (to be published in Spring 2014). Single-volume hardcover edition. ISBN 978-3-642-04603-2. This completely revisedGerman edition will include all materials previously only published in English plus additional chapters on selected new topics.
 
-![cover-de1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de1-140x195.png)![cover-de2-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de2-140x195.png)
+![cover-de1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de1-140x195.png) ![cover-de2-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de2-140x195.png)
 
 ## Chinese Edition
 
