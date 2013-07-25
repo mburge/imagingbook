@@ -13,22 +13,14 @@ Our books are currently available in the following print and online editions:
 	* Vol. 2: [Core Algorithms ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-195-4) 
 	* Vol. 3: [Advanced Methods ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84882-918-3) This is currently the most recent English edition. 
 
-![cover-en1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-en-140x195.png) ![UTICS-cover-1-140](http://imagingbook.files.wordpress.com/2013/06/utics-fund-front-140.png) ![UTICS-cover-3-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png) ![UTICS-cover-2-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png)
-
 ## German Editions
 
    * [ Digitale Bildverarbeitung – Eine Einführung mit Java und ImageJ](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag Heidelberg, 2nd edition (2006). Single-volume hardcover edition. ISBN 978-3-540-30941-3. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
    * Digitale Bildverarbeitung – Eine algorithmische Einführung mit Java (to appear 2014) Springer-Verlag Heidelberg, 3rd edition (to be published in Spring 2014). Single-volume hardcover edition. ISBN 978-3-642-04603-2. This completely revisedGerman edition will include all materials previously only published in English plus additional chapters on selected new topics.
 
-![cover-de1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de1-140x195.png) ![cover-de2-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de2-140x195.png)
-
 ## Chinese Edition
 
    * Digital Image Processing – An Algorithmic Introduction using Java Springer / Tsinghua University Press (2010). ISBN 978-7-302-21365-9. [Read more..](http://imagingbook.wordpress.com/books/chinese-edition/)
-
-![cover-cn1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-cn1-140x195.png)
-
-
 
 # Source Code
 
