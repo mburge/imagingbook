@@ -1,10 +1,6 @@
 Digital Image Processing
 ===========
 
-Books and Materials by Wilhelm Burger &amp; Mark Burge
-
-# Welcome
-
 Welcome to this web site accompanying our textbooks on **digital image processing**. Our books provide a modern, algorithmic introduction to digital image processing, designed to be used both by learners looking for a firm foundation on which to build and practitioners in search of critical analysis and modern implementations of the most important techniques. While we concentrate on practical applications and working implementations, we do so without glossing over the important formal details and mathematics necessary for a deeper understanding of the algorithms. In preparing these texts, we started from the premise that simply creating a recipe book of imaging solutions would not provide the deeper understanding needed to apply these techniques to novel problems. Instead, our solutions typically develop stepwise along three different perspectives: (a) in **mathematical** form, (b) as portable pseudocode **algorithms**, and (c) as **complete implementations** in a real programming language (**Java**). We use a common and consistent notation throughout to intertwine all three perspectives, thus providing multiple but linked views of problems and solutions. For our readers this site provides the following documents and materials: 
 
   * the complete [source code](http://imagingbook.com/source/),
@@ -12,6 +8,28 @@ Welcome to this web site accompanying our textbooks on **digital image processin
   * [images and slide materials](http://imagingbook.com/materials/),
   * an [ImageJ reference and tutorial](http://imagingbook.com/imagej-tutorial/),
   * useful [links to other resources](http://imagingbook.com/links/).
+
+Our books are currently available in the following print and online editions: 
+
+## English Editions
+
+  * [ **Digital Image Processing – An Algorithmic Introduction using Java**](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag, New York (2008). ISBN 978-1-84628-968-2. Single-volume hardcover edition with 566 pages and 394 illustrations, full color print. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
+  * **[Principles of Digital Image Processing (Vol. 1-3)](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/) **Springer Undergraduate Topics in Computer Science, New York (2009-2013). 3-volume softbound edition, full color print. Vol. 1: **[Fundamental Techniques** ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-191-6) Vol. 2: **[Core Algorithms** ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-195-4) Vol. 3: **[Advanced Methods** ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84882-918-3) This is currently the most recent English edition. Volumes 1-2 cover essentially the same contents as the hardcover edition. Volume 3 (added in 2013) covers all-new content. [Read more..](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)
+![cover-en1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-en-140x195.png)![UTICS-cover-1-140](http://imagingbook.files.wordpress.com/2013/06/utics-fund-front-140.png)![UTICS-cover-3-140](http://imagingbook.files.wordpress.com/2013/06/utics-advanced-front-140.png)![UTICS-cover-2-140](http://imagingbook.files.wordpress.com/2013/06/utics-core-front-140.png)
+
+## German Editions
+
+  * [ **Digitale Bildverarbeitung – Eine Einführung mit Java und ImageJ**](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag Heidelberg, 2nd edition (2006). Single-volume hardcover edition. ISBN 978-3-540-30941-3. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
+  * **Digitale Bildverarbeitung – Eine algorithmische Einführung mit Java (to appear 2014) **Springer-Verlag Heidelberg, 3rd edition (to be published in Spring 2014). Single-volume hardcover edition. ISBN 978-3-642-04603-2. This completely revisedGerman edition will include all materials previously only published in English plus additional chapters on selected new topics.
+![cover-de1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de1-140x195.png)![cover-de2-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-de2-140x195.png)
+
+## Chinese Edition
+
+  * **Digital Image Processing – An Algorithmic Introduction using Java** Springer / Tsinghua University Press (2010). ISBN 978-7-302-21365-9. [Read more..](http://imagingbook.wordpress.com/books/chinese-edition/)
+![cover-cn1-140x195](http://imagingbook.files.wordpress.com/2013/06/cover-cn1-140x195.png)
+
+Books and Materials by Wilhelm Burger &amp; Mark Burge
+
 
 # Source Code
 
@@ -86,3 +104,5 @@ Unfortunately mistakes happen and we are grateful to our readers for reporting t
   * Vol. 2: Core Algorithms [[PDF](http://imagingbook.files.wordpress.com/2013/06/burgerburge-utics2-errata.pdf)]
   * Vol. 3: Advanced Methods [none so far]
   * **German Edition **[[PDF](http://imagingbook.files.wordpress.com/2013/06/burgerburge-de2-errata.pdf)]
+
+
