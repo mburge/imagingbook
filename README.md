@@ -10,11 +10,14 @@ Our books are currently available in the following print and online editions:
 	* Vol. 1: [Fundamental Techniques ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-191-6) 
 	* Vol. 2: [Core Algorithms ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84800-195-4) 
 	* Vol. 3: [Advanced Methods ](http://imagingbook.wordpress.com/books/englisch-edition-3-vol-softcover/)(ISBN 978-1-84882-918-3) This is currently the most recent English edition. 
+
 ## German Editions
    * [ Digitale Bildverarbeitung – Eine Einführung mit Java und ImageJ](http://imagingbook.wordpress.com/books/english-edition-hardcover/) Springer-Verlag Heidelberg, 2nd edition (2006). Single-volume hardcover edition. ISBN 978-3-540-30941-3. [Read more..](http://imagingbook.wordpress.com/books/english-edition-hardcover/)
    * Digitale Bildverarbeitung – Eine algorithmische Einführung mit Java (to appear 2014) Springer-Verlag Heidelberg, 3rd edition (to be published in Spring 2014). Single-volume hardcover edition. ISBN 978-3-642-04603-2. This completely revisedGerman edition will include all materials previously only published in English plus additional chapters on selected new topics.
+
 ## Chinese Edition
    * Digital Image Processing – An Algorithmic Introduction using Java Springer / Tsinghua University Press (2010). ISBN 978-7-302-21365-9. [Read more..](http://imagingbook.wordpress.com/books/chinese-edition/)
+
 # Source Code
 The algorithms in our books are implemented in Java and [ImageJ ](http://rsbweb.nih.gov/ij/index.html) which is a small, simple and flexible environment for digital image processing, originally conceived (and still being developed) by Wayne Rasband at the U.S. National Institutes of Health (NIH). Our source code is distributed in two parts: 
 
