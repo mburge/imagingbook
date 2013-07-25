@@ -75,3 +75,14 @@ This software is provided as a supplement to the authors' textbooks on digital i
     of the authors and should not be interpreted as representing official policies, 
     either expressed or implied, of the FreeBSD Project.
     -------------------------------------------------------------------------------
+
+# Errata
+
+Unfortunately mistakes happen and we are grateful to our readers for reporting them and studying the texts so carefully! Download the set of replacement pages for each book edition below. All corrections and changes are highlighted in color. 
+
+  * **Professional Edition** [[PDF](http://imagingbook.files.wordpress.com/2013/06/burgerburge-en1-errata.pdf)]
+  * **Undergraduate Series**
+  * Vol. 1: Fundamental Techniques [[PDF](http://imagingbook.files.wordpress.com/2013/06/burgerburge-utics1-errata.pdf)]
+  * Vol. 2: Core Algorithms [[PDF](http://imagingbook.files.wordpress.com/2013/06/burgerburge-utics2-errata.pdf)]
+  * Vol. 3: Advanced Methods [none so far]
+  * **German Edition **[[PDF](http://imagingbook.files.wordpress.com/2013/06/burgerburge-de2-errata.pdf)]
